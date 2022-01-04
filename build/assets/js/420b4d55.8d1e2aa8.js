@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[895],{7791:function(e,t,c){c.r(t),c.d(t,{default:function(){return s}});var n=c(7294),u=c(7019);function s(e){return n.createElement(u.Z,{title:"Foo"},"Food page")}}}]);
