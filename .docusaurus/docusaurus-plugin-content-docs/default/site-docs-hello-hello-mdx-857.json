@@ -1,0 +1,19 @@
+{
+  "unversionedId": "hello/hello",
+  "id": "hello/hello",
+  "title": "Hello",
+  "description": "This is my first Docusaurus document!",
+  "source": "@site/docs/hello/hello.mdx",
+  "sourceDirName": "hello",
+  "slug": "/hello/",
+  "permalink": "/docs/hello/",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hello/hello.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

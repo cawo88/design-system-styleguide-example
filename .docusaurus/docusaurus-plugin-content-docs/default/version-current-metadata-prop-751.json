@@ -79,18 +79,26 @@
         ]
       },
       {
-        "type": "link",
+        "type": "category",
         "label": "hello",
-        "href": "/docs/hello",
-        "docId": "hello"
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "hello",
+            "href": "/docs/hello/test",
+            "docId": "hello/test"
+          }
+        ]
       }
     ]
   },
   "docs": {
-    "hello": {
-      "id": "hello",
+    "hello/test": {
+      "id": "hello/test",
       "title": "Hello",
-      "description": "This is my first Docusaurus document!",
+      "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

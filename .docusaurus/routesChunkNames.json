@@ -123,19 +123,19 @@
   },
   "/Foo/-1a8": {
     "component": "component---site-src-pages-foo-index-tsxda-7-7d7",
-    "config": "config---foo-5-e-9-114"
+    "config": "config---foo-5-e-9-8f1"
   },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-aac": {
+  "/docs-6be": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/hello-7a8": {
+  "/docs/hello/test-991": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-hello-9-df-13a"
+    "content": "content---docs-hello-testbb-1-28c"
   },
   "/docs/intro-aed": {
     "component": "component---theme-doc-item-178-a40",
@@ -175,6 +175,6 @@
   },
   "/-f49": {
     "component": "component---site-src-pages-index-tsx-1-df-d3e",
-    "config": "config---foo-5-e-9-114"
+    "config": "config---foo-5-e-9-8f1"
   }
 }

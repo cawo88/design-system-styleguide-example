@@ -105,11 +105,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','aac'),
+    component: ComponentCreator('/docs','6be'),
     routes: [
       {
-        path: '/docs/hello',
-        component: ComponentCreator('/docs/hello','7a8'),
+        path: '/docs/hello/test',
+        component: ComponentCreator('/docs/hello/test','991'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

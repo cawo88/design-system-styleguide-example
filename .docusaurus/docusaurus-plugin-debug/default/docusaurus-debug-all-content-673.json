@@ -19,15 +19,15 @@
           "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "hello",
-              "id": "hello",
+              "unversionedId": "hello/test",
+              "id": "hello/test",
               "title": "Hello",
-              "description": "This is my first Docusaurus document!",
-              "source": "@site/docs/hello.md",
-              "sourceDirName": ".",
-              "slug": "/hello",
-              "permalink": "/docs/hello",
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hello.md",
+              "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
+              "source": "@site/docs/hello/test.md",
+              "sourceDirName": "hello",
+              "slug": "/hello/test",
+              "permalink": "/docs/hello/test",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hello/test.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -268,7 +268,7 @@
               },
               "next": {
                 "title": "hello",
-                "permalink": "/docs/hello"
+                "permalink": "/docs/hello/test"
               }
             }
           ],
@@ -327,9 +327,17 @@
                 ]
               },
               {
-                "type": "doc",
-                "id": "hello",
-                "label": "hello"
+                "type": "category",
+                "label": "hello",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "hello/test",
+                    "label": "hello"
+                  }
+                ]
               }
             ]
           },
