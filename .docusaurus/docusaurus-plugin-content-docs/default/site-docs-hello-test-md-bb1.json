@@ -1,7 +1,7 @@
 {
   "unversionedId": "hello/test",
   "id": "hello/test",
-  "title": "Hello",
+  "title": "Markdown format examples",
   "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
   "source": "@site/docs/hello/test.md",
   "sourceDirName": "hello",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_label": "hello",
+    "sidebar_label": "Markdown format examples",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",

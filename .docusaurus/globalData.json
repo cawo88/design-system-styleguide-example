@@ -11,11 +11,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "hello/test",
-              "path": "/docs/hello/test",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -58,6 +53,16 @@
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-markdown/markdown-format",
+              "path": "/docs/tutorial-markdown/markdown-format",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-markdown/mdx-format",
+              "path": "/docs/tutorial-markdown/mdx-format",
               "sidebar": "tutorialSidebar"
             }
           ]

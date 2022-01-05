@@ -80,27 +80,27 @@
       },
       {
         "type": "category",
-        "label": "hello",
+        "label": "Tutorial - Doc page",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "hello",
-            "href": "/docs/hello/test",
-            "docId": "hello/test"
+            "label": "Markdown format",
+            "href": "/docs/tutorial-markdown/markdown-format",
+            "docId": "tutorial-markdown/markdown-format"
+          },
+          {
+            "type": "link",
+            "label": "mdx format",
+            "href": "/docs/tutorial-markdown/mdx-format",
+            "docId": "tutorial-markdown/mdx-format"
           }
         ]
       }
     ]
   },
   "docs": {
-    "hello/test": {
-      "id": "hello/test",
-      "title": "Hello",
-      "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
-      "sidebar": "tutorialSidebar"
-    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",
@@ -153,6 +153,18 @@
       "id": "tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-markdown/markdown-format": {
+      "id": "tutorial-markdown/markdown-format",
+      "title": "Markdown format examples",
+      "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-markdown/mdx-format": {
+      "id": "tutorial-markdown/mdx-format",
+      "title": "MDX format for React component",
+      "description": "<span",
       "sidebar": "tutorialSidebar"
     }
   }

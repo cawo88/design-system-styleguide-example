@@ -115,14 +115,8 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','6be'),
+    component: ComponentCreator('/docs','0ca'),
     routes: [
-      {
-        path: '/docs/hello/test',
-        component: ComponentCreator('/docs/hello/test','991'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','aed'),
@@ -174,6 +168,18 @@ export default [
       {
         path: '/docs/tutorial-extras/translate-your-site',
         component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorial-markdown/markdown-format',
+        component: ComponentCreator('/docs/tutorial-markdown/markdown-format','352'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorial-markdown/mdx-format',
+        component: ComponentCreator('/docs/tutorial-markdown/mdx-format','a33'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
