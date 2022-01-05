@@ -35,10 +35,10 @@ export default {
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "intro",
+          "type": "docsVersionDropdown",
           "position": "left",
-          "label": "Tutorial"
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "to": "/blog",

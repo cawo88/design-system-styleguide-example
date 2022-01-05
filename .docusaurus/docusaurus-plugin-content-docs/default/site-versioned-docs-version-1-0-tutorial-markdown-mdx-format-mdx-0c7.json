@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-markdown/mdx-format",
+  "id": "version-1.0/tutorial-markdown/mdx-format",
+  "title": "MDX format for React component",
+  "description": "<span",
+  "source": "@site/versioned_docs/version-1.0/tutorial-markdown/mdx-format.mdx",
+  "sourceDirName": "tutorial-markdown",
+  "slug": "/tutorial-markdown/mdx-format",
+  "permalink": "/docs/tutorial-markdown/mdx-format",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-1.0/tutorial-markdown/mdx-format.mdx",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "mdx format",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown format",
+    "permalink": "/docs/tutorial-markdown/markdown-format"
+  }
+}
