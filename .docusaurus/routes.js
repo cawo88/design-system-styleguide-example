@@ -105,8 +105,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','87d'),
+    component: ComponentCreator('/docs','aac'),
     routes: [
+      {
+        path: '/docs/hello',
+        component: ComponentCreator('/docs/hello','7a8'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','aed'),
