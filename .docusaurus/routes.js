@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','520'),
+    component: ComponentCreator('/blog','945'),
     exact: true
   },
   {
@@ -51,6 +51,11 @@ export default [
   {
     path: '/blog/first-blog-post',
     component: ComponentCreator('/blog/first-blog-post','6c7'),
+    exact: true
+  },
+  {
+    path: '/blog/greetings',
+    component: ComponentCreator('/blog/greetings','3aa'),
     exact: true
   },
   {
@@ -76,6 +81,11 @@ export default [
   {
     path: '/blog/tags/facebook',
     component: ComponentCreator('/blog/tags/facebook','ede'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/greetings',
+    component: ComponentCreator('/blog/tags/greetings','b86'),
     exact: true
   },
   {
