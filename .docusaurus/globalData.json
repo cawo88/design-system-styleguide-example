@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "components/button",
+              "path": "/docs/next/components/button",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/next/intro",
               "sidebar": "tutorialSidebar"

@@ -115,8 +115,14 @@ export default [
   },
   {
     path: '/docs/next',
-    component: ComponentCreator('/docs/next','7d3'),
+    component: ComponentCreator('/docs/next','d99'),
     routes: [
+      {
+        path: '/docs/next/components/button',
+        component: ComponentCreator('/docs/next/components/button','7f7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/next/intro',
         component: ComponentCreator('/docs/next/intro','8d4'),

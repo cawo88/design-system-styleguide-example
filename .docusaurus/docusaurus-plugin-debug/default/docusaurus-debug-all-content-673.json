@@ -18,6 +18,29 @@
           "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "components/button",
+              "id": "components/button",
+              "title": "Markdown format examples",
+              "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
+              "source": "@site/docs/components/button.mdx",
+              "sourceDirName": "components",
+              "slug": "/components/button",
+              "permalink": "/docs/next/components/button",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/components/button.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Button",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "mdx format",
+                "permalink": "/docs/next/tutorial-markdown/mdx-format"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Tutorial Intro",
@@ -295,6 +318,10 @@
               "previous": {
                 "title": "Markdown format",
                 "permalink": "/docs/next/tutorial-markdown/markdown-format"
+              },
+              "next": {
+                "title": "Button",
+                "permalink": "/docs/next/components/button"
               }
             }
           ],
@@ -367,6 +394,19 @@
                     "type": "doc",
                     "id": "tutorial-markdown/mdx-format",
                     "label": "mdx format"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Components",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "components/button",
+                    "label": "Button"
                   }
                 ]
               }

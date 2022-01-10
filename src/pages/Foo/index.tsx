@@ -1,11 +1,12 @@
-import React from 'react';
-import Layout from '@theme/Layout';
+import React from "react";
+import Layout from "@theme/Layout";
+import { Button } from "@cawo88/component-library-example";
 
 export default function Foo(): JSX.Element {
-    return (
+  return (
     <Layout title="Foo">
-        Foo page
+      <Button label="Button" primary />
+      Foo page
     </Layout>
-    )
+  );
 }
-  
