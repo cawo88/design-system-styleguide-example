@@ -46,7 +46,7 @@ const config = {
         },
         items: [
           {
-            to: "docs/components/button",
+            to: "docs/next/components/button",
             label: "Components",
             position: "right",
           },
