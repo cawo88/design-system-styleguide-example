@@ -1,6 +1,6 @@
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Styleguide",
+  "tagline": "An example of a design system styleguide powered by Docusaurus.",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -28,9 +28,9 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Styleguide",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Styleguide Logo",
         "src": "img/logo.svg"
       },
       "items": [

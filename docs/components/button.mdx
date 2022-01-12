@@ -1,0 +1,56 @@
+import { Button } from "@cawo88/component-library-example";
+
+# Button
+
+The `<button>` tag defines a clickable button.
+
+## Avaliable props
+
+### Type
+
+There are three different types of buttons: `primitive`, `simple` and `rounded`. Pass the button types as a `type` prop. By default the type is `primitive`.
+
+<Button label="primitive" type="primitive" onClick={() => alert("hi")} />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<Button label="simple" type="simple" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<Button label="rounded" type="rounded" />
+
+<br />
+<br />
+
+```jsx title="primitive"
+<Button type="primitive" />
+```
+
+```jsx title="simple"
+<Button type="simple" />
+```
+
+```jsx title="rounded"
+<Button type="rounded" />
+```
+
+### Label
+
+The `label` prop accepts a `string` value. This prop is required for accessiblity.
+
+```jsx title="label"
+<Button label="text" />
+```
+
+### Background color
+
+The `backgroundColor` prop accepts a `string` value. It is recommended to use a hexidecimal value. This prop is optional and by default it is `#4b5563` and `#374151` on hover.
+
+```jsx title="background color"
+<Button backgroundColor="#000000" />
+```
+
+### On click
+
+The `onClick` prop fires an event handler.
+
+```jsx title="onClick"
+<Button onClick={() => console.log("you clicked me")} />
+```

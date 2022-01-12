@@ -18,6 +18,25 @@
           "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "components/button",
+              "id": "components/button",
+              "title": "Button",
+              "description": "The `` tag defines a clickable button.",
+              "source": "@site/docs/components/button.mdx",
+              "sourceDirName": "components",
+              "slug": "/components/button",
+              "permalink": "/docs/next/components/button",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/components/button.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "mdx format",
+                "permalink": "/docs/next/tutorial-markdown/mdx-format"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Tutorial Intro",
@@ -295,6 +314,10 @@
               "previous": {
                 "title": "Markdown format",
                 "permalink": "/docs/next/tutorial-markdown/markdown-format"
+              },
+              "next": {
+                "title": "Button",
+                "permalink": "/docs/next/components/button"
               }
             }
           ],
@@ -367,6 +390,18 @@
                     "type": "doc",
                     "id": "tutorial-markdown/mdx-format",
                     "label": "mdx format"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Components",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "components/button"
                   }
                 ]
               }

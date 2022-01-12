@@ -147,9 +147,13 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs/next-7d3": {
+  "/docs/next-d99": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-next-935-7db"
+  },
+  "/docs/next/components/button-7f7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-next-components-button-074-64b"
   },
   "/docs/next/intro-8d4": {
     "component": "component---theme-doc-item-178-a40",

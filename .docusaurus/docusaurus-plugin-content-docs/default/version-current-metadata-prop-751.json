@@ -97,10 +97,30 @@
             "docId": "tutorial-markdown/mdx-format"
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "Components",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Button",
+            "href": "/docs/next/components/button",
+            "docId": "components/button"
+          }
+        ]
       }
     ]
   },
   "docs": {
+    "components/button": {
+      "id": "components/button",
+      "title": "Button",
+      "description": "The `` tag defines a clickable button.",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",
