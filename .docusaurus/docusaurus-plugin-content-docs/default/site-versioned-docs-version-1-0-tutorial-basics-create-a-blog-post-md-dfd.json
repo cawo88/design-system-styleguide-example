@@ -7,7 +7,7 @@
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-blog-post",
   "permalink": "/docs/tutorial-basics/create-a-blog-post",
-  "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-basics/create-a-blog-post.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-1.0/tutorial-basics/create-a-blog-post.md",
   "tags": [],
   "version": "1.0",
   "sidebarPosition": 3,

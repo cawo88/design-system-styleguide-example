@@ -1,0 +1,5 @@
+{
+  "type": "mdx",
+  "permalink": "/foo/foo",
+  "source": "@site/src/pages/foo/foo.md"
+}

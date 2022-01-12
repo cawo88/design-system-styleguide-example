@@ -7,7 +7,7 @@
   "sourceDirName": "tutorial-markdown",
   "slug": "/tutorial-markdown/mdx-format",
   "permalink": "/docs/next/tutorial-markdown/mdx-format",
-  "editUrl": "https://github.com/cawo88/design-system-styleguide-example/docs/tutorial-markdown/mdx-format.mdx",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-markdown/mdx-format.mdx",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,5 +19,9 @@
   "previous": {
     "title": "Markdown format",
     "permalink": "/docs/next/tutorial-markdown/markdown-format"
+  },
+  "next": {
+    "title": "Button",
+    "permalink": "/docs/next/components/button"
   }
 }

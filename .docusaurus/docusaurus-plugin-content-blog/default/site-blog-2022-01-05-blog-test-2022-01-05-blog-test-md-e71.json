@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/greetings",
-  "editUrl": "https://github.com/cawo88/design-system-styleguide-example/blog/2022-01-05-blog-test/2022-01-05-blog-test.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-01-05-blog-test/2022-01-05-blog-test.md",
   "source": "@site/blog/2022-01-05-blog-test/2022-01-05-blog-test.md",
   "title": "Greetings!",
   "description": "My first blog post. The date format is year-month-date to order the folders and markdown files; can use mdx format too for React components.",

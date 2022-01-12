@@ -6,46 +6,47 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "cawo88",
-  "projectName": "design system styleguide example",
+  "organizationName": "facebook",
+  "projectName": "docusaurus",
   "presets": [
     [
       "classic",
       {
         "docs": {
           "sidebarPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/sidebars.js",
-          "editUrl": "https://github.com/cawo88/design-system-styleguide-example"
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+        },
+        "blog": {
+          "showReadingTime": true,
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": [
-            "/Users/kayeeleung/Projects/design-system-styleguide-example/src/css/custom.css",
-            "/Users/kayeeleung/Projects/design-system-styleguide-example/src/css/tailwind.css"
-          ]
+          "customCss": "/Users/kayeeleung/Projects/design-system-styleguide-example/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Demo",
+      "title": "Styleguide",
       "logo": {
-        "alt": "Demo Logo",
+        "alt": "Styleguide Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
-          "to": "docs/components/button",
-          "label": "Components",
-          "position": "right"
-        },
-        {
           "type": "docsVersionDropdown",
-          "position": "right",
+          "position": "left",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
         },
         {
-          "href": "https://github.com/cawo88/design-system-styleguide-example",
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
         }
@@ -54,8 +55,48 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2022 Demo, Inc. Built with Docusaurus.",
-      "links": []
+      "links": [
+        {
+          "title": "Docs",
+          "items": [
+            {
+              "label": "Tutorial",
+              "to": "/docs/intro"
+            }
+          ]
+        },
+        {
+          "title": "Community",
+          "items": [
+            {
+              "label": "Stack Overflow",
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+            },
+            {
+              "label": "Discord",
+              "href": "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
+            }
+          ]
+        },
+        {
+          "title": "More",
+          "items": [
+            {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/facebook/docusaurus"
+            }
+          ]
+        }
+      ],
+      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
