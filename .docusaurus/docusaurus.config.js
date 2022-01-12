@@ -21,7 +21,10 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/kayeeleung/Projects/design-system-styleguide-example/src/css/custom.css"
+          "customCss": [
+            "/Users/kayeeleung/Projects/design-system-styleguide-example/src/css/custom.css",
+            "/Users/kayeeleung/Projects/design-system-styleguide-example/src/css/tailwind.css"
+          ]
         }
       }
     ]
