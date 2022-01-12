@@ -117,8 +117,8 @@
   "docs": {
     "components/button": {
       "id": "components/button",
-      "title": "Markdown format examples",
-      "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
+      "title": "Button",
+      "description": "The `` tag defines a clickable button.",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

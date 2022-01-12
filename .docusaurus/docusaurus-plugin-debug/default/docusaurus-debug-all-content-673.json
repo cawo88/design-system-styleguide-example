@@ -20,8 +20,8 @@
             {
               "unversionedId": "components/button",
               "id": "components/button",
-              "title": "Markdown format examples",
-              "description": "This is my first Docusaurus document! the markdown file cannot have the same name as the parent folder name.",
+              "title": "Button",
+              "description": "The `` tag defines a clickable button.",
               "source": "@site/docs/components/button.mdx",
               "sourceDirName": "components",
               "slug": "/components/button",
@@ -29,11 +29,7 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/components/button.mdx",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_label": "Button",
-                "sidebar_position": 1
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "mdx format",
@@ -405,8 +401,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "components/button",
-                    "label": "Button"
+                    "id": "components/button"
                   }
                 ]
               }
