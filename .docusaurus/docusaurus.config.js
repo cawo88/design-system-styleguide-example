@@ -6,19 +6,19 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "cawo88",
+  "projectName": "design system styleguide example",
   "presets": [
     [
       "classic",
       {
         "docs": {
           "sidebarPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/cawo88/design-system-styleguide-example"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/cawo88/design-system-styleguide-example"
         },
         "theme": {
           "customCss": [
@@ -31,15 +31,20 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Styleguide",
+      "title": "Demo",
       "logo": {
-        "alt": "Styleguide Logo",
+        "alt": "Demo Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
+          "to": "docs/components/button",
+          "label": "Docs",
+          "position": "right"
+        },
+        {
           "type": "docsVersionDropdown",
-          "position": "left",
+          "position": "right",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
         },
@@ -49,7 +54,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/cawo88/design-system-styleguide-example",
           "label": "GitHub",
           "position": "right"
         }
@@ -63,8 +68,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Components",
+              "to": "/docs/components/button"
             }
           ]
         },
@@ -78,10 +83,6 @@ export default {
             {
               "label": "Discord",
               "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
@@ -89,12 +90,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/cawo88/design-system-styleguide-example"
             }
           ]
         }
