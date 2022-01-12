@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorial Intro",
-    "permalink": "/docs/next/intro"
+    "title": "Button",
+    "permalink": "/docs/next/components/button"
   },
   "next": {
     "title": "Create a Document",

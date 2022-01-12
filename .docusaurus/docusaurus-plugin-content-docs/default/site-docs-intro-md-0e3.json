@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Create a Page",
-    "permalink": "/docs/next/tutorial-basics/create-a-page"
+    "title": "Button",
+    "permalink": "/docs/next/components/button"
   }
 }

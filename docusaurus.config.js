@@ -25,10 +25,6 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/cawo88/design-system-styleguide-example",
         },
-        blog: {
-          showReadingTime: true,
-          editUrl: "https://github.com/cawo88/design-system-styleguide-example",
-        },
         theme: {
           customCss: [
             require.resolve("./src/css/custom.css"),
@@ -51,14 +47,13 @@ const config = {
         items: [
           {
             to: "docs/components/button",
-            label: "Docs",
+            label: "Components",
             position: "right",
           },
           {
             type: "docsVersionDropdown",
             position: "right",
           },
-          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/cawo88/design-system-styleguide-example",
             label: "GitHub",
@@ -68,40 +63,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Components",
-                to: "/docs/components/button",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/cawo88/design-system-styleguide-example",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Demo, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

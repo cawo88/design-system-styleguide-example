@@ -16,10 +16,6 @@ export default {
           "sidebarPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/sidebars.js",
           "editUrl": "https://github.com/cawo88/design-system-styleguide-example"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/cawo88/design-system-styleguide-example"
-        },
         "theme": {
           "customCss": [
             "/Users/kayeeleung/Projects/design-system-styleguide-example/src/css/custom.css",
@@ -39,7 +35,7 @@ export default {
       "items": [
         {
           "to": "docs/components/button",
-          "label": "Docs",
+          "label": "Components",
           "position": "right"
         },
         {
@@ -47,11 +43,6 @@ export default {
           "position": "right",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
         },
         {
           "href": "https://github.com/cawo88/design-system-styleguide-example",
@@ -63,40 +54,8 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Components",
-              "to": "/docs/components/button"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/cawo88/design-system-styleguide-example"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 Demo, Inc. Built with Docusaurus.",
+      "links": []
     },
     "prism": {
       "theme": {

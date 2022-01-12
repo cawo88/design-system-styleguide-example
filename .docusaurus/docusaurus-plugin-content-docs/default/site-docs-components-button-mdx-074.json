@@ -10,10 +10,9 @@
   "editUrl": "https://github.com/cawo88/design-system-styleguide-example/docs/components/button.mdx",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "mdx format",
-    "permalink": "/docs/next/tutorial-markdown/mdx-format"
-  }
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
 }
