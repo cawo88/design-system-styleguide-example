@@ -39,68 +39,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog','945'),
-    exact: true
-  },
-  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive','f4c'),
-    exact: true
-  },
-  {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post','6c7'),
-    exact: true
-  },
-  {
-    path: '/blog/greetings',
-    component: ComponentCreator('/blog/greetings','3aa'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post','f06'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post','bee'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','ddf'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','ede'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/greetings',
-    component: ComponentCreator('/blog/tags/greetings','b86'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello','4c2'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola','752'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome','bfa'),
     exact: true
   },
   {
@@ -115,77 +55,11 @@ export default [
   },
   {
     path: '/docs/next',
-    component: ComponentCreator('/docs/next','d99'),
+    component: ComponentCreator('/docs/next','edf'),
     routes: [
       {
         path: '/docs/next/components/button',
         component: ComponentCreator('/docs/next/components/button','7f7'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/intro',
-        component: ComponentCreator('/docs/next/intro','8d4'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/next/tutorial-basics/congratulations','942'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/next/tutorial-basics/create-a-blog-post','fbe'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/next/tutorial-basics/create-a-document','32a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/next/tutorial-basics/create-a-page','24b'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/next/tutorial-basics/deploy-your-site','49e'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/next/tutorial-basics/markdown-features','bca'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/next/tutorial-extras/manage-docs-versions','a0f'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/next/tutorial-extras/translate-your-site','84b'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-markdown/markdown-format',
-        component: ComponentCreator('/docs/next/tutorial-markdown/markdown-format','58c'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/next/tutorial-markdown/mdx-format',
-        component: ComponentCreator('/docs/next/tutorial-markdown/mdx-format','329'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

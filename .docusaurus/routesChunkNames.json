@@ -21,123 +21,9 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-945": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-48-989"
-      },
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "metadata": "metadata---blogb-2-b-df1"
-  },
   "/blog/archive-f4c": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
     "archive": "archive---blog-archiveb-2-f-393"
-  },
-  "/blog/first-blog-post-6c7": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
-  },
-  "/blog/greetings-3aa": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-greetingse-71-899"
-  },
-  "/blog/long-blog-post-f06": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
-  },
-  "/blog/mdx-blog-post-bee": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
-  },
-  "/blog/tags-e13": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
-  },
-  "/blog/tags/docusaurus-ddf": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "metadata": "metadata---blog-tags-docusaurusa-80-728"
-  },
-  "/blog/tags/facebook-ede": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      }
-    ],
-    "metadata": "metadata---blog-tags-facebook-031-c52"
-  },
-  "/blog/tags/greetings-b86": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-48-989"
-      }
-    ],
-    "metadata": "metadata---blog-tags-greetingsce-0-3c2"
-  },
-  "/blog/tags/hello-4c2": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blog-871-381"
-      }
-    ],
-    "metadata": "metadata---blog-tags-hello-30-a-bed"
-  },
-  "/blog/tags/hola-752": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "metadata": "metadata---blog-tags-holae-16-18a"
-  },
-  "/blog/welcome-bfa": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
   },
   "/Foo/-1a8": {
     "component": "component---site-src-pages-foo-index-tsxda-7-7d7",
@@ -147,57 +33,13 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs/next-d99": {
+  "/docs/next-edf": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-next-935-7db"
   },
   "/docs/next/components/button-7f7": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-components-button-074-64b"
-  },
-  "/docs/next/intro-8d4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-intro-0-e-3-e8b"
-  },
-  "/docs/next/tutorial-basics/congratulations-942": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-congratulations-822-dd8"
-  },
-  "/docs/next/tutorial-basics/create-a-blog-post-fbe": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-create-a-blog-post-533-264"
-  },
-  "/docs/next/tutorial-basics/create-a-document-32a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-create-a-document-1-e-4-9c5"
-  },
-  "/docs/next/tutorial-basics/create-a-page-24b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-create-a-page-5-c-8-5e7"
-  },
-  "/docs/next/tutorial-basics/deploy-your-site-49e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-deploy-your-sitef-55-46f"
-  },
-  "/docs/next/tutorial-basics/markdown-features-bca": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-markdown-features-18-c-0e2"
-  },
-  "/docs/next/tutorial-extras/manage-docs-versions-a0f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-extras-manage-docs-versionsdff-edb"
-  },
-  "/docs/next/tutorial-extras/translate-your-site-84b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-extras-translate-your-sitee-44-d48"
-  },
-  "/docs/next/tutorial-markdown/markdown-format-58c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-markdown-markdown-format-3-eb-f13"
-  },
-  "/docs/next/tutorial-markdown/mdx-format-329": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-markdown-mdx-format-98-b-a1b"
   },
   "/docs-36d": {
     "component": "component---theme-doc-page-1-be-9be",
