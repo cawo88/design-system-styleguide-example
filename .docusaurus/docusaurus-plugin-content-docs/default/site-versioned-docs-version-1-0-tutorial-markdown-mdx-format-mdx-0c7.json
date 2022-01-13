@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.0/tutorial-markdown/mdx-format.mdx",
   "sourceDirName": "tutorial-markdown",
   "slug": "/tutorial-markdown/mdx-format",
-  "permalink": "/docs/tutorial-markdown/mdx-format",
+  "permalink": "/docs/1.0/tutorial-markdown/mdx-format",
   "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-markdown/mdx-format.mdx",
   "tags": [],
   "version": "1.0",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Markdown format",
-    "permalink": "/docs/tutorial-markdown/markdown-format"
+    "permalink": "/docs/1.0/tutorial-markdown/markdown-format"
   }
 }
