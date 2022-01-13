@@ -16,7 +16,6 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
-  --ifm-heading-font-family: var(--typography-text-base-regular-font-family);
 }
 
 .docusaurus-highlight-code-line {
@@ -28,9 +27,4 @@
 
 html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
-}
-
-body {
-  font-family: var(--typography-text-base-regular-font-family), Helvetica, Arial,
-    sans-serif;
 }
