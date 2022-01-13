@@ -15,8 +15,8 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@cawo88/component-library-example": "^0.1.5",
-    "@cawo88/design-token-transformer": "^0.6.6",
+    "@cawo88/component-library-example": "^0.1.6",
+    "@cawo88/design-token-transformer": "^0.6.12",
     "@docusaurus/core": "2.0.0-beta.14",
     "@docusaurus/preset-classic": "2.0.0-beta.14",
     "@mdx-js/react": "^1.6.21",

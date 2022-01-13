@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.0/tutorial-extras/translate-your-site.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/translate-your-site",
-  "permalink": "/docs/tutorial-extras/translate-your-site",
+  "permalink": "/docs/1.0/tutorial-extras/translate-your-site",
   "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-extras/translate-your-site.md",
   "tags": [],
   "version": "1.0",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    "permalink": "/docs/1.0/tutorial-extras/manage-docs-versions"
   },
   "next": {
     "title": "Markdown format",
-    "permalink": "/docs/tutorial-markdown/markdown-format"
+    "permalink": "/docs/1.0/tutorial-markdown/markdown-format"
   }
 }
