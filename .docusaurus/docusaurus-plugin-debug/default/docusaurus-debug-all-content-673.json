@@ -56,123 +56,17 @@
           "categoryGeneratedIndices": []
         },
         {
-          "versionName": "1.2.0",
-          "versionLabel": "1.2.0",
-          "versionPath": "/docs",
-          "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.2.0",
-          "versionEditUrlLocalized": "https://github.com/cawo88/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.2.0",
-          "versionBanner": null,
-          "versionBadge": true,
-          "versionClassName": "docs-version-1.2.0",
-          "isLast": true,
-          "routePriority": -1,
-          "sidebarFilePath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_sidebars/version-1.2.0-sidebars.json",
-          "contentPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_docs/version-1.2.0",
-          "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.2.0",
-          "docs": [
-            {
-              "unversionedId": "components/button",
-              "id": "version-1.2.0/components/button",
-              "title": "Button",
-              "description": "The `` tag defines a clickable button.",
-              "source": "@site/versioned_docs/version-1.2.0/components/button.mdx",
-              "sourceDirName": "components",
-              "slug": "/components/button",
-              "permalink": "/docs/components/button",
-              "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.2.0/components/button.mdx",
-              "tags": [],
-              "version": "1.2.0",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar"
-            }
-          ],
-          "sidebars": {
-            "tutorialSidebar": [
-              {
-                "type": "category",
-                "label": "Components",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "version-1.2.0/components/button"
-                  }
-                ]
-              }
-            ]
-          },
-          "mainDocId": "components/button",
-          "categoryGeneratedIndices": []
-        },
-        {
-          "versionName": "1.1.0",
-          "versionLabel": "1.1.0",
-          "versionPath": "/docs/1.1.0",
-          "tagsPath": "/docs/1.1.0/tags",
-          "versionEditUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.1.0",
-          "versionEditUrlLocalized": "https://github.com/cawo88/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.1.0",
-          "versionBanner": "unmaintained",
-          "versionBadge": true,
-          "versionClassName": "docs-version-1.1.0",
-          "isLast": false,
-          "sidebarFilePath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_sidebars/version-1.1.0-sidebars.json",
-          "contentPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_docs/version-1.1.0",
-          "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.1.0",
-          "docs": [
-            {
-              "unversionedId": "components/button",
-              "id": "version-1.1.0/components/button",
-              "title": "Button",
-              "description": "The `` tag defines a clickable button.",
-              "source": "@site/versioned_docs/version-1.1.0/components/button.mdx",
-              "sourceDirName": "components",
-              "slug": "/components/button",
-              "permalink": "/docs/1.1.0/components/button",
-              "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.1.0/components/button.mdx",
-              "tags": [],
-              "version": "1.1.0",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar"
-            }
-          ],
-          "sidebars": {
-            "tutorialSidebar": [
-              {
-                "type": "category",
-                "label": "Components",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "version-1.1.0/components/button"
-                  }
-                ]
-              }
-            ]
-          },
-          "mainDocId": "components/button",
-          "categoryGeneratedIndices": []
-        },
-        {
           "versionName": "1.0",
           "versionLabel": "1.0",
-          "versionPath": "/docs/1.0",
-          "tagsPath": "/docs/1.0/tags",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
           "versionEditUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0",
           "versionEditUrlLocalized": "https://github.com/cawo88/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.0",
-          "versionBanner": "unmaintained",
+          "versionBanner": null,
           "versionBadge": true,
           "versionClassName": "docs-version-1.0",
-          "isLast": false,
+          "isLast": true,
+          "routePriority": -1,
           "sidebarFilePath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_sidebars/version-1.0-sidebars.json",
           "contentPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_docs/version-1.0",
           "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.0",
@@ -185,7 +79,7 @@
               "source": "@site/versioned_docs/version-1.0/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/1.0/intro",
+              "permalink": "/docs/intro",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/intro.md",
               "tags": [],
               "version": "1.0",
@@ -196,7 +90,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Create a Page",
-                "permalink": "/docs/1.0/tutorial-basics/create-a-page"
+                "permalink": "/docs/tutorial-basics/create-a-page"
               }
             },
             {
@@ -207,7 +101,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/1.0/tutorial-basics/congratulations",
+              "permalink": "/docs/tutorial-basics/congratulations",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "1.0",
@@ -218,11 +112,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/docs/1.0/tutorial-basics/deploy-your-site"
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/1.0/tutorial-extras/manage-docs-versions"
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
               }
             },
             {
@@ -233,7 +127,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/1.0/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics/create-a-blog-post",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "1.0",
@@ -244,11 +138,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/docs/1.0/tutorial-basics/create-a-document"
+                "permalink": "/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/docs/1.0/tutorial-basics/markdown-features"
+                "permalink": "/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -259,7 +153,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/1.0/tutorial-basics/create-a-document",
+              "permalink": "/docs/tutorial-basics/create-a-document",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "1.0",
@@ -270,11 +164,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/docs/1.0/tutorial-basics/create-a-page"
+                "permalink": "/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/1.0/tutorial-basics/create-a-blog-post"
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -285,7 +179,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/1.0/tutorial-basics/create-a-page",
+              "permalink": "/docs/tutorial-basics/create-a-page",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "1.0",
@@ -296,11 +190,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial Intro",
-                "permalink": "/docs/1.0/intro"
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/docs/1.0/tutorial-basics/create-a-document"
+                "permalink": "/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -311,7 +205,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/1.0/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/tutorial-basics/deploy-your-site",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "1.0",
@@ -322,11 +216,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/docs/1.0/tutorial-basics/markdown-features"
+                "permalink": "/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/docs/1.0/tutorial-basics/congratulations"
+                "permalink": "/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -337,7 +231,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/1.0/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "1.0",
@@ -348,11 +242,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/1.0/tutorial-basics/create-a-blog-post"
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/docs/1.0/tutorial-basics/deploy-your-site"
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -363,7 +257,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/1.0/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "1.0",
@@ -374,11 +268,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Congratulations!",
-                "permalink": "/docs/1.0/tutorial-basics/congratulations"
+                "permalink": "/docs/tutorial-basics/congratulations"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/1.0/tutorial-extras/translate-your-site"
+                "permalink": "/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -389,7 +283,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/1.0/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "1.0",
@@ -400,11 +294,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/1.0/tutorial-extras/manage-docs-versions"
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "Markdown format",
-                "permalink": "/docs/1.0/tutorial-markdown/markdown-format"
+                "permalink": "/docs/tutorial-markdown/markdown-format"
               }
             },
             {
@@ -415,7 +309,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-markdown/markdown-format.md",
               "sourceDirName": "tutorial-markdown",
               "slug": "/tutorial-markdown/markdown-format",
-              "permalink": "/docs/1.0/tutorial-markdown/markdown-format",
+              "permalink": "/docs/tutorial-markdown/markdown-format",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-markdown/markdown-format.md",
               "tags": [],
               "version": "1.0",
@@ -427,11 +321,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Translate your site",
-                "permalink": "/docs/1.0/tutorial-extras/translate-your-site"
+                "permalink": "/docs/tutorial-extras/translate-your-site"
               },
               "next": {
                 "title": "mdx format",
-                "permalink": "/docs/1.0/tutorial-markdown/mdx-format"
+                "permalink": "/docs/tutorial-markdown/mdx-format"
               }
             },
             {
@@ -442,7 +336,7 @@
               "source": "@site/versioned_docs/version-1.0/tutorial-markdown/mdx-format.mdx",
               "sourceDirName": "tutorial-markdown",
               "slug": "/tutorial-markdown/mdx-format",
-              "permalink": "/docs/1.0/tutorial-markdown/mdx-format",
+              "permalink": "/docs/tutorial-markdown/mdx-format",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.0/tutorial-markdown/mdx-format.mdx",
               "tags": [],
               "version": "1.0",
@@ -454,7 +348,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown format",
-                "permalink": "/docs/1.0/tutorial-markdown/markdown-format"
+                "permalink": "/docs/tutorial-markdown/markdown-format"
               }
             }
           ],

@@ -33,62 +33,6 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs/1.0-0f6": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-1-0352-1d8"
-  },
-  "/docs/1.0/intro-848": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-intro-7-bd-2e1"
-  },
-  "/docs/1.0/tutorial-basics/congratulations-6cd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-basics-congratulationseeb-ebd"
-  },
-  "/docs/1.0/tutorial-basics/create-a-blog-post-ce3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-basics-create-a-blog-postdfd-41a"
-  },
-  "/docs/1.0/tutorial-basics/create-a-document-afa": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-basics-create-a-document-84-d-a77"
-  },
-  "/docs/1.0/tutorial-basics/create-a-page-002": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-basics-create-a-page-4-f-7-933"
-  },
-  "/docs/1.0/tutorial-basics/deploy-your-site-d3b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-basics-deploy-your-site-49-f-078"
-  },
-  "/docs/1.0/tutorial-basics/markdown-features-8f7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-basics-markdown-features-1-fe-cb3"
-  },
-  "/docs/1.0/tutorial-extras/manage-docs-versions-7af": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-extras-manage-docs-versions-292-f4c"
-  },
-  "/docs/1.0/tutorial-extras/translate-your-site-7a3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-extras-translate-your-sitef-82-ae5"
-  },
-  "/docs/1.0/tutorial-markdown/markdown-format-0e0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-markdown-markdown-format-6-f-7-719"
-  },
-  "/docs/1.0/tutorial-markdown/mdx-format-f03": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-tutorial-markdown-mdx-format-0-c-7-489"
-  },
-  "/docs/1.1.0-385": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-1-1-0-e-15-9e7"
-  },
-  "/docs/1.1.0/components/button-c9d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-1-1-0-components-button-07-b-c23"
-  },
   "/docs/next-edf": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-next-935-7db"
@@ -97,13 +41,53 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-components-button-074-64b"
   },
-  "/docs-ec4": {
+  "/docs-36d": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-055-6a3"
+    "versionMetadata": "versionMetadata---docs-352-c1a"
   },
-  "/docs/components/button-d6f": {
+  "/docs/intro-f4f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-components-buttonce-0-cf4"
+    "content": "content---docs-intro-7-bd-4eb"
+  },
+  "/docs/tutorial-basics/congratulations-61f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-congratulationseeb-899"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-dcc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-blog-postdfd-f4f"
+  },
+  "/docs/tutorial-basics/create-a-document-06c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-document-84-d-a08"
+  },
+  "/docs/tutorial-basics/create-a-page-a8a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-page-4-f-7-f7e"
+  },
+  "/docs/tutorial-basics/deploy-your-site-996": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-deploy-your-site-49-f-dfb"
+  },
+  "/docs/tutorial-basics/markdown-features-b9e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-markdown-features-1-fe-a03"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-43e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versions-292-aa8"
+  },
+  "/docs/tutorial-extras/translate-your-site-fa0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-sitef-82-49c"
+  },
+  "/docs/tutorial-markdown/markdown-format-748": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-markdown-markdown-format-6-f-7-58c"
+  },
+  "/docs/tutorial-markdown/mdx-format-c13": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-markdown-mdx-format-0-c-7-992"
   },
   "/-f49": {
     "component": "component---site-src-pages-index-tsx-1-df-d3e",
