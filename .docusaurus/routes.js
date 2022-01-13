@@ -126,6 +126,18 @@ export default [
     ]
   },
   {
+    path: '/docs/1.1',
+    component: ComponentCreator('/docs/1.1','7a3'),
+    routes: [
+      {
+        path: '/docs/1.1/components/button',
+        component: ComponentCreator('/docs/1.1/components/button','93a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      }
+    ]
+  },
+  {
     path: '/docs/next',
     component: ComponentCreator('/docs/next','edf'),
     routes: [
@@ -139,11 +151,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','ab1'),
+    component: ComponentCreator('/docs','0d7'),
     routes: [
       {
         path: '/docs/components/button',
-        component: ComponentCreator('/docs/components/button','a21'),
+        component: ComponentCreator('/docs/components/button','680'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

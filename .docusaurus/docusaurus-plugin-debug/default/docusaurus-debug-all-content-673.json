@@ -56,17 +56,70 @@
           "categoryGeneratedIndices": []
         },
         {
-          "versionName": "1.1",
-          "versionLabel": "1.1",
+          "versionName": "1.2",
+          "versionLabel": "1.2",
           "versionPath": "/docs",
           "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.1",
-          "versionEditUrlLocalized": "https://github.com/cawo88/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.1",
+          "versionEditUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.2",
+          "versionEditUrlLocalized": "https://github.com/cawo88/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.2",
           "versionBanner": null,
           "versionBadge": true,
-          "versionClassName": "docs-version-1.1",
+          "versionClassName": "docs-version-1.2",
           "isLast": true,
           "routePriority": -1,
+          "sidebarFilePath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_sidebars/version-1.2-sidebars.json",
+          "contentPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_docs/version-1.2",
+          "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.2",
+          "docs": [
+            {
+              "unversionedId": "components/button",
+              "id": "version-1.2/components/button",
+              "title": "Button",
+              "description": "The `` tag defines a clickable button.",
+              "source": "@site/versioned_docs/version-1.2/components/button.mdx",
+              "sourceDirName": "components",
+              "slug": "/components/button",
+              "permalink": "/docs/components/button",
+              "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.2/components/button.mdx",
+              "tags": [],
+              "version": "1.2",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Components",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-1.2/components/button"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "components/button",
+          "categoryGeneratedIndices": []
+        },
+        {
+          "versionName": "1.1",
+          "versionLabel": "1.1",
+          "versionPath": "/docs/1.1",
+          "tagsPath": "/docs/1.1/tags",
+          "versionEditUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.1",
+          "versionEditUrlLocalized": "https://github.com/cawo88/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.1",
+          "versionBanner": "unmaintained",
+          "versionBadge": true,
+          "versionClassName": "docs-version-1.1",
+          "isLast": false,
           "sidebarFilePath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_sidebars/version-1.1-sidebars.json",
           "contentPath": "/Users/kayeeleung/Projects/design-system-styleguide-example/versioned_docs/version-1.1",
           "contentPathLocalized": "/Users/kayeeleung/Projects/design-system-styleguide-example/i18n/en/docusaurus-plugin-content-docs/version-1.1",
@@ -79,7 +132,7 @@
               "source": "@site/versioned_docs/version-1.1/components/button.mdx",
               "sourceDirName": "components",
               "slug": "/components/button",
-              "permalink": "/docs/components/button",
+              "permalink": "/docs/1.1/components/button",
               "editUrl": "https://github.com/cawo88/design-system-styleguide-example/versioned_docs/version-1.1/components/button.mdx",
               "tags": [],
               "version": "1.1",

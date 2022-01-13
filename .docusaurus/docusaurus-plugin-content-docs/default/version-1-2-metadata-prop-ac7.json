@@ -1,11 +1,11 @@
 {
   "pluginId": "default",
-  "version": "1.1",
-  "label": "1.1",
-  "banner": "unmaintained",
+  "version": "1.2",
+  "label": "1.2",
+  "banner": null,
   "badge": true,
-  "className": "docs-version-1.1",
-  "isLast": false,
+  "className": "docs-version-1.2",
+  "isLast": true,
   "docsSidebars": {
     "tutorialSidebar": [
       {
@@ -17,7 +17,7 @@
           {
             "type": "link",
             "label": "Button",
-            "href": "/docs/1.1/components/button",
+            "href": "/docs/components/button",
             "docId": "components/button"
           }
         ]

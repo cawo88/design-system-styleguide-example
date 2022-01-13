@@ -1163,19 +1163,19 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@cawo88/component-library-example@^0.1.6":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@cawo88/component-library-example/-/component-library-example-0.1.6.tgz#c3921d50a90ba0dfead4c9ac7feac52fa4a6ca4c"
-  integrity sha512-/brmRJirMzxZaRrIx3rviPQod4klrPOxHUf0bUvclnYknw/binxMjXbW6wXGdr50w0Ce97wG7YYL5UJggZeFKQ==
+"@cawo88/component-library-example@^0.1.7":
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/@cawo88/component-library-example/-/component-library-example-0.1.7.tgz#83057bcace67d5b5afc30891cb43df0b2778a6e3"
+  integrity sha512-7i4tDxp4gf44Iow7DOUuzmHSPd/dNpZ7SLzdqkB/6CIpDqXCc/LtrKc5FDAlJJZ7HKpvrFm+N1LgEQuq4oh/Dw==
   dependencies:
-    "@cawo88/design-token-transformer" "^0.6.12"
+    "@cawo88/design-token-transformer" "^0.6.13"
     autoprefixer "^10.4.2"
     postcss-flexbugs-fixes "^5.0.2"
 
-"@cawo88/design-token-transformer@^0.6.12":
-  version "0.6.12"
-  resolved "https://registry.yarnpkg.com/@cawo88/design-token-transformer/-/design-token-transformer-0.6.12.tgz#1599a2bb70b748220dd05c50846c6998073f52bc"
-  integrity sha512-s0VFB9XJ9rrrlR4br2P0eKhJ2iaZdLVgNBqCp+UiETm6GoH6V8mo8HihVlkc+42lAK0quqQPyo7qrtiZfG6/gw==
+"@cawo88/design-token-transformer@^0.6.13":
+  version "0.6.13"
+  resolved "https://registry.yarnpkg.com/@cawo88/design-token-transformer/-/design-token-transformer-0.6.13.tgz#d866711bfc961a6f85ba886593379ae4a5464a0c"
+  integrity sha512-ZkiaC/J+bsbWvFUF/kpQruIlU6ZgTpQms6G2uIXr8C+W3gyG9llWUEiAIWvx27XvrVfd9gGXt0sCCT2XkHl5/Q==
   dependencies:
     style-dictionary "^3"
 

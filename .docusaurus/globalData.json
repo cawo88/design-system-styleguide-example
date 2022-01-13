@@ -18,8 +18,8 @@
           ]
         },
         {
-          "name": "1.1",
-          "label": "1.1",
+          "name": "1.2",
+          "label": "1.2",
           "isLast": true,
           "path": "/docs",
           "mainDocId": "components/button",
@@ -27,6 +27,20 @@
             {
               "id": "components/button",
               "path": "/docs/components/button",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        },
+        {
+          "name": "1.1",
+          "label": "1.1",
+          "isLast": false,
+          "path": "/docs/1.1",
+          "mainDocId": "components/button",
+          "docs": [
+            {
+              "id": "components/button",
+              "path": "/docs/1.1/components/button",
               "sidebar": "tutorialSidebar"
             }
           ]
